@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T09:16:24.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.7" etag="Glo2gqwZ5f8on_e4pnW0" type="github"><diagram id="uC6A-LN68PpUqQVxdsIX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-29T09:21:47.201Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Nw9nFBg8kuTftDRiSjhU" version="20.2.7" type="github">
+  <diagram id="uC6A-LN68PpUqQVxdsIX" name="第 1 页">
+    <mxGraphModel dx="946" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2ww45A0Sf8mP8j548J3A-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2ww45A0Sf8mP8j548J3A-1" target="2ww45A0Sf8mP8j548J3A-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ww45A0Sf8mP8j548J3A-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-36-128.png" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2ww45A0Sf8mP8j548J3A-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ww45A0Sf8mP8j548J3A-2" target="2ww45A0Sf8mP8j548J3A-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ww45A0Sf8mP8j548J3A-2" value="Rails路由" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2ww45A0Sf8mP8j548J3A-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="2ww45A0Sf8mP8j548J3A-4" target="2ww45A0Sf8mP8j548J3A-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ww45A0Sf8mP8j548J3A-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;控制器&lt;br&gt;（user_controller.rb)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="100" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2ww45A0Sf8mP8j548J3A-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;模型&lt;br&gt;（user.rb)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="130" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
